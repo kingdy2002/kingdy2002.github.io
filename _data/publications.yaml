@@ -2,14 +2,14 @@ papers:
   - title: "Debiasing Online Preference Learning via Preference Feature Preservation"
     image: "/home/dongyoung/kingdy2002.github.io/assets/publications/pfp.png"
     authors: "<b><u>Dongyoung Kim</u></b>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>, <a>Jinsung Yoon</a> ,<a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
-    venue: "Preprint"
+    venue: "Preprint, 2024"
     # poster: ""
     selected: y
 
   - title: "Aligning Large Language Models with Self-generated Preference Data"
     image: "/home/dongyoung/kingdy2002.github.io/assets/publications/selfee.png"
     authors: "<b><u>Dongyoung Kim</u></b>, <a>Kimin Lee</a> ,<a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>"
-    venue: "Preprint"
+    venue: "Preprint, 2024"
     # poster: ""
     selected: y
 
