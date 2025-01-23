@@ -6,10 +6,10 @@ papers:
   #  # poster: ""
   #  selected: y
 
-  - title: "Aligning Large Language Models with Self-generated Preference Data"
+  - title: "Spread Preference Annotation: Direct Preference Judgment for Efficient LLM Alignment"
     image: "/home/dongyoung/kingdy2002.github.io/assets/publications/selfee.png"
     authors: "<b><u>Dongyoung Kim</u></b>, <a>Kimin Lee</a> ,<a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>"
-    venue: "Preprint, 2024"
+    venue: "International Conference on Learning Representations (ICLR) 2025"
     # poster: ""
     selected: y
 
