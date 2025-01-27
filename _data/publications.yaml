@@ -9,7 +9,7 @@ papers:
   - title: "Spread Preference Annotation: Direct Preference Judgment for Efficient LLM Alignment"
     image: "/home/dongyoung/kingdy2002.github.io/assets/publications/selfee.png"
     authors: "<b><u>Dongyoung Kim</u></b>, <a>Kimin Lee</a> ,<a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>"
-    venue: "International Conference on Learning Representations (ICLR) 2025"
+    venue: "International Conference on Learning Representations (ICLR) 2025, Received a top rating (11/11,672 submissions) during the rebuttal phase."
     paper_pdf: "https://openreview.net/forum?id=BPgK5XW1Nb&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)"
     code: "https://github.com/kingdy2002/SPA"
     # poster: ""
