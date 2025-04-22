@@ -34,7 +34,6 @@ papers:
     # poster: ""
     selected: y
 
-
   - title: "Accelerating Reinforcement Learning with Value-Conditional State Entropy Exploration"
     image: "/home/dongyoung/kingdy2002.github.io/assets/publications/vcse.png"
     authors: "<b><u>Dongyoung Kim</u></b>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://people.eecs.berkeley.edu/~pabbeel/'>Pieter Abbeel</a>, <a href='https://younggyo.me/'>Younggyo Seo</a>"
@@ -44,3 +43,12 @@ papers:
     code: "https://github.com/kingdy2002/VCSE"
     selected: y
 
+  - title: "Debiasing Online Preference Learning via Preference Feature Preservation"
+    authors: "<b><u>Dongyoung Kim</u></b>, <a>Jinsung Yoon</a>,<a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>"
+    venue: "Preprint"
+    selected: y
+
+  - title: "SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning"
+    authors: "<a>Byoungwooo Jeon</a>*, <b><u>Dongyoung Kim</u></b>*,<a href='https://huiwon-jang.github.io/'>Huiwon Jang</a>,<a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+    venue: "Preprint"
+    selected: y
