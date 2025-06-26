@@ -15,25 +15,6 @@ papers:
     # poster: ""
     selected: y
 
-  - title: "Learning to Correct for QA Reasoning with Black-box LLMs"
-    image: "/home/dongyoung/kingdy2002.github.io/assets/publications/cobb.png"
-    authors: "<a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>, <b><u>Dongyoung Kim</u></b>,  <a>Yiming Yang</a>"
-    venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024 (Long, Main)"
-    paper_pdf: "https://arxiv.org/abs/2406.18695"
-    code: "https://github.com/bbuing9/CoBB"
-    # poster: ""
-    selected: n
-  
-  - title: "Visual Representation Learning with Stochastic Frame Prediction"
-    image: "/home/dongyoung/kingdy2002.github.io/assets/publications/rsp.png"
-    authors: "<a href='https://huiwon-jang.github.io/'>Huiwon Jang</a>,<b><u>Dongyoung Kim</u></b>, <a href='https://junsu-kim97.github.io/'>Junsu Kim</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://people.eecs.berkeley.edu/~pabbeel/'>Pieter Abbeel</a>, <a href='https://younggyo.me/'>Younggyo Seo</a>"
-    venue: "International Conference on Machine Learning (ICML), 2024"
-    paper_pdf: "https://arxiv.org/abs/2406.07398"
-    project_page: "https://sites.google.com/view/2024rsp"
-    code: "https://github.com/huiwon-jang/RSP"
-    # poster: ""
-    selected: n
-
   - title: "Accelerating Reinforcement Learning with Value-Conditional State Entropy Exploration"
     image: "/home/dongyoung/kingdy2002.github.io/assets/publications/vcse.png"
     authors: "<b><u>Dongyoung Kim</u></b>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://people.eecs.berkeley.edu/~pabbeel/'>Pieter Abbeel</a>, <a href='https://younggyo.me/'>Younggyo Seo</a>"
@@ -61,17 +42,36 @@ papers:
     venue: "Preprint"
     selected: y
 
+  - title: "Learning to Correct for QA Reasoning with Black-box LLMs"
+    image: "/home/dongyoung/kingdy2002.github.io/assets/publications/cobb.png"
+    authors: "<a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>, <b><u>Dongyoung Kim</u></b>,  <a>Yiming Yang</a>"
+    venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024 (Long, Main)"
+    paper_pdf: "https://arxiv.org/abs/2406.18695"
+    code: "https://github.com/bbuing9/CoBB"
+    # poster: ""
+    selected: y
+  
+  - title: "Visual Representation Learning with Stochastic Frame Prediction"
+    image: "/home/dongyoung/kingdy2002.github.io/assets/publications/rsp.png"
+    authors: "<a href='https://huiwon-jang.github.io/'>Huiwon Jang</a>,<b><u>Dongyoung Kim</u></b>, <a href='https://junsu-kim97.github.io/'>Junsu Kim</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://people.eecs.berkeley.edu/~pabbeel/'>Pieter Abbeel</a>, <a href='https://younggyo.me/'>Younggyo Seo</a>"
+    venue: "International Conference on Machine Learning (ICML), 2024"
+    paper_pdf: "https://arxiv.org/abs/2406.07398"
+    project_page: "https://sites.google.com/view/2024rsp"
+    code: "https://github.com/huiwon-jang/RSP"
+    # poster: ""
+    selected: y
+
   - title: "Collaborative LLM Inference via Planning for Efficient Reasoning"
     authors: "<a>Byeongchan Lee</a>, <a>Jonghoon Lee</a>, <b><u>Dongyoung Kim</u></b>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2506.11578"
-    selected: n
+    selected: y
 
   - title: "Training-free LLM Verification via Recycling Few-shot Examples"
     authors: "<a>Dongseok Lee</a>, <a>Jimyung Hong</a>, <b><u>Dongyoung Kim</u></b>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>"
     venue: "International Conference on Machine Learning (ICML) 2025 Workshop ES-FoMo-III"
     paper_pdf: "https://www.arxiv.org/abs/2506.17251"
     code: "https://github.com/dongseok1220/Referi"
-    selected: n
+    selected: y
 
 
