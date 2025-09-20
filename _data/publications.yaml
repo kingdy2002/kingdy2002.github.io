@@ -6,6 +6,12 @@ papers:
   #  # poster: ""
   #  selected: y
 
+  - title: "Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics"
+    authors: "<b><u>Dongyoung Kim</u></b>, <a>Sumin Park</a>,<a href='https://huiwon-jang.github.io/'>Huiwon Jang</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>*, <a href='https://younggyo.me/'>Younggyo Seo</a>*"
+    paper_pdf: "https://arxiv.org/abs/2506.00070"
+    venue: "Conference on Neural Information Processing Systems (NeurIPS), 2025"
+    selected: y
+
   - title: "Spread Preference Annotation: Direct Preference Judgment for Efficient LLM Alignment"
     image: "/home/dongyoung/kingdy2002.github.io/assets/publications/selfee.png"
     authors: "<b><u>Dongyoung Kim</u></b>, <a>Kimin Lee</a> ,<a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>"
@@ -31,11 +37,6 @@ papers:
     venue: "Annual Meeting of the Association for Computational Linguistics (ACL) 2025 (Findings)"
     selected: y
 
-  - title: "Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics"
-    authors: "<b><u>Dongyoung Kim</u></b>, <a>Sumin Park</a>,<a href='https://huiwon-jang.github.io/'>Huiwon Jang</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>*, <a href='https://younggyo.me/'>Younggyo Seo</a>*"
-    paper_pdf: "https://arxiv.org/abs/2506.00070"
-    venue: "Conference on Neural Information Processing Systems (NeurIPS), 2025"
-    selected: y
 
   - title: "SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning"
     authors: "<a>Byoungwooo Jeon</a>*, <b><u>Dongyoung Kim</u></b>*,<a href='https://huiwon-jang.github.io/'>Huiwon Jang</a>,<a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
