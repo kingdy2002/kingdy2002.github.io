@@ -38,11 +38,6 @@ papers:
     selected: y
 
 
-  - title: "SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning"
-    authors: "<a>Byoungwooo Jeon</a>*, <b><u>Dongyoung Kim</u></b>*,<a href='https://huiwon-jang.github.io/'>Huiwon Jang</a>,<a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
-    venue: "Preprint"
-    selected: y
-
   - title: "Learning to Correct for QA Reasoning with Black-box LLMs"
     image: "/home/dongyoung/kingdy2002.github.io/assets/publications/cobb.png"
     authors: "<a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>, <b><u>Dongyoung Kim</u></b>,  <a>Yiming Yang</a>"
@@ -61,9 +56,21 @@ papers:
     code: "https://github.com/huiwon-jang/RSP"
     # poster: ""
     selected: y
+    
+  - title: "Training-free LLM Verification via Recycling Few-shot Examples"
+    authors: "<a>Dongseok Lee</a>, <a>Jimyung Hong</a>, <b><u>Dongyoung Kim</u></b>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>"
+    venue: "International Conference on Machine Learning (ICML) 2025 Workshop ES-FoMo-III"
+    paper_pdf: "https://www.arxiv.org/abs/2506.17251"
+    code: "https://github.com/dongseok1220/Referi"
+    selected: y
 
   - title: "RoboAlign: Reinforcement Learning for Action-Aligned Multimodal Large Language Models"
     authors: "<b><u>Dongyoung Kim</u></b>, <a>Sumin Park</a>, <a>Woomin Song</a>, <a>Seungku Kim</a>, <a>Taeyoung Kim</a>, <a href='https://huiwon-jang.github.io/'>Huiwon Jang</a>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>, <a href='https://younggyo.me/'>Younggyo Seo</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+    venue: "Preprint"
+    selected: y
+
+  - title: "SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning"
+    authors: "<a>Byoungwooo Jeon</a>*, <b><u>Dongyoung Kim</u></b>*,<a href='https://huiwon-jang.github.io/'>Huiwon Jang</a>,<a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue: "Preprint"
     selected: y
 
@@ -91,11 +98,4 @@ papers:
     authors: "<a>Byeongchan Lee</a>, <a>Jonghoon Lee</a>, <b><u>Dongyoung Kim</u></b>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2506.11578"
-    selected: y
-
-  - title: "Training-free LLM Verification via Recycling Few-shot Examples"
-    authors: "<a>Dongseok Lee</a>, <a>Jimyung Hong</a>, <b><u>Dongyoung Kim</u></b>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>"
-    venue: "International Conference on Machine Learning (ICML) 2025 Workshop ES-FoMo-III"
-    paper_pdf: "https://www.arxiv.org/abs/2506.17251"
-    code: "https://github.com/dongseok1220/Referi"
     selected: y
