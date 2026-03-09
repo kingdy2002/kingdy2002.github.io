@@ -56,7 +56,7 @@ papers:
     # poster: ""
     selected: y
 
-    - title: "Verifier-free Test-Time Sampling for Vision Language Action Models"
+  - title: "Verifier-free Test-Time Sampling for Vision Language Action Models"
     authors: "<a>Suhyeok Jang</a>, <b><u>Dongyoung Kim</u></b>, <a>Changyeon Kim</a>, <a>Youngsuk Kim</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue: "International Conference on Learning Representations (ICLR), 2026"
     paper_pdf: "https://arxiv.org/abs/2510.05681"
