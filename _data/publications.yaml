@@ -37,7 +37,6 @@ papers:
     venue: "Annual Meeting of the Association for Computational Linguistics (ACL) 2025 (Findings)"
     selected: y
 
-
   - title: "Learning to Correct for QA Reasoning with Black-box LLMs"
     image: "/home/dongyoung/kingdy2002.github.io/assets/publications/cobb.png"
     authors: "<a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>, <b><u>Dongyoung Kim</u></b>,  <a>Yiming Yang</a>"
@@ -56,6 +55,12 @@ papers:
     code: "https://github.com/huiwon-jang/RSP"
     # poster: ""
     selected: y
+
+    - title: "Verifier-free Test-Time Sampling for Vision Language Action Models"
+    authors: "<a>Suhyeok Jang</a>, <b><u>Dongyoung Kim</u></b>, <a>Changyeon Kim</a>, <a>Youngsuk Kim</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+    venue: "International Conference on Learning Representations (ICLR), 2026"
+    paper_pdf: "https://arxiv.org/abs/2510.05681"
+    selected: y
     
   - title: "Training-free LLM Verification via Recycling Few-shot Examples"
     authors: "<a>Dongseok Lee</a>, <a>Jimyung Hong</a>, <b><u>Dongyoung Kim</u></b>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>"
@@ -71,26 +76,31 @@ papers:
 
   - title: "SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning"
     authors: "<a>Byoungwooo Jeon</a>*, <b><u>Dongyoung Kim</u></b>*,<a href='https://huiwon-jang.github.io/'>Huiwon Jang</a>,<a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
-    venue: "Preprint"
+    venue: "NeurIPS 2025 Workshop on Space in Vision, Language, and Embodied AI"
+    paper_pdf: "https://openreview.net/forum?id=q4gW7LorVN"
     selected: y
 
-  - title: "Contrastive Representation Regularization for Vision-Language-Action Models"
-    authors: "<a>Taeyoung Kim</a>, <a>Jimin Lee</a>, <a>Myungkyu Koo</a>, <b><u>Dongyoung Kim</u></b>, <a>Kyungmin Lee</a>, <a>Changyeon Kim</a>, <a href='https://younggyo.me/'>Younggyo Seo</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+  - title: "RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning"
+    authors: "<a>Seungku Kim</a>, <a>Suhyeok Jang</a>, <a>Byungjun Yoon</a>, <b><u>Dongyoung Kim</u></b>, <a>John Won</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue: "Preprint"
-    selected: y
-
-  - title: "INFUSER: Injecting Synthetic Failures for Self-Correcting Embodied Agents"
-    authors: "<a>Byungjun Yoon</a>, <b><u>Dongyoung Kim</u></b>, <a>Jaehyun Nam</a>, <a>Wook Jung</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
-    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2602.18742"
+    project_page: "https://seungkukim.github.io/robocurate/"
     selected: y
 
   - title: "Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model"
     authors: "<a>John Won</a>, <a>Kyungmin Lee</a>, <a href='https://huiwon-jang.github.io/'>Huiwon Jang</a>, <b><u>Dongyoung Kim</u></b>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2510.27607"
     selected: y
 
-  - title: "Verifier-free Test-Time Sampling for Vision Language Action Models"
-    authors: "<a>Suhyeok Jang</a>, <b><u>Dongyoung Kim</u></b>, <a>Changyeon Kim</a>, <a>Youngsuk Kim</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+  - title: "Contrastive Representation Regularization for Vision-Language-Action Models"
+    authors: "<a>Taeyoung Kim</a>, <a>Jimin Lee</a>, <a>Myungkyu Koo</a>, <b><u>Dongyoung Kim</u></b>, <a>Kyungmin Lee</a>, <a>Changyeon Kim</a>, <a href='https://younggyo.me/'>Younggyo Seo</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+    venue: "International Conference on Learning Representations (ICLR), 2026"
+    paper_pdf: "https://arxiv.org/abs/2510.01711"
+    selected: y
+
+  - title: "INFUSER: Injecting Synthetic Failures for Self-Correcting Embodied Agents"
+    authors: "<a>Byungjun Yoon</a>, <b><u>Dongyoung Kim</u></b>, <a>Jaehyun Nam</a>, <a>Wook Jung</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue: "Preprint"
     selected: y
 
