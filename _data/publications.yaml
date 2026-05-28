@@ -62,7 +62,7 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2406.18695"
     code: "https://github.com/bbuing9/CoBB"
     # poster: ""
-    selected: n
+    selected: y
 
   - title: "Visual Representation Learning with Stochastic Frame Prediction"
     image: "/home/dongyoung/kingdy2002.github.io/assets/publications/rsp.png"
@@ -72,7 +72,7 @@ papers:
     project_page: "https://sites.google.com/view/2024rsp"
     code: "https://github.com/huiwon-jang/RSP"
     # poster: ""
-    selected: n
+    selected: y
 
   - title: "Accelerating Reinforcement Learning with Value-Conditional State Entropy Exploration"
     image: "/home/dongyoung/kingdy2002.github.io/assets/publications/vcse.png"
@@ -94,7 +94,7 @@ papers:
     venue: "International Conference on Machine Learning (ICML) 2025 Workshop ES-FoMo-III"
     paper_pdf: "https://www.arxiv.org/abs/2506.17251"
     code: "https://github.com/dongseok1220/Referi"
-    selected: n
+    selected: y
 
   - title: "RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models"
     authors: "<b><u>Dongyoung Kim</u></b>, <a>Sumin Park</a>, <a>Woomin Song</a>, <a>Seungku Kim</a>, <a>Taeyoung Kim</a>, <a href='https://huiwon-jang.github.io/'>Huiwon Jang</a>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>, <a href='https://younggyo.me/'>Younggyo Seo</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
@@ -112,10 +112,10 @@ papers:
   - title: "INFUSER: Injecting Synthetic Failures for Self-Correcting Embodied Agents"
     authors: "<a>Byungjun Yoon</a>, <b><u>Dongyoung Kim</u></b>, <a>Jaehyun Nam</a>, <a>Wook Jung</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue: "Preprint"
-    selected: n
+    selected: y
 
   - title: "Collaborative LLM Inference via Planning for Efficient Reasoning"
     authors: "<a>Byeongchan Lee</a>, <a>Jonghoon Lee</a>, <b><u>Dongyoung Kim</u></b>, <a href='https://sites.google.com/view/jaehyungkim'>Jaehyung Kim</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2506.11578"
-    selected: n
+    selected: y
